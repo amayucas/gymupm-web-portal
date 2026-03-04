@@ -30,44 +30,12 @@ Aplicación web prototipo para un gimnasio (pantalla de acceso y formulario de a
 
 ## Previsualización local
 
-Desde la raíz del repositorio:
-
-```bash
-python3 -m http.server 8000
-```
-
 Abre en el navegador:
 
-- `http://127.0.0.1:8000/GymUPM/home.html`
-- `http://127.0.0.1:8000/GymUPM/registro_socio.html`
+- `[http://127.0.0.1:8000](https://amayucas.github.io/gymupm-web-portal//GymUPM/home.html)`
+- `[http://127.0.0.1:8000](https://amayucas.github.io/gymupm-web-portal//GymUPM/registro_socio.html)`
 
-## Hosting recomendado
-
-Sí, este proyecto se puede hostear como web estática.
-
-### Opción 1: GitHub Pages (recomendada)
-
-1. Ve a `Settings -> Pages`.
-2. En `Build and deployment`, selecciona `Deploy from a branch`.
-3. Elige la rama `master` (o `main`) y carpeta `/ (root)`.
-4. Guarda y espera el despliegue.
-
-Con la estructura actual, la URL de la app será:
-
-- `https://<usuario>.github.io/<repo>/GymUPM/home.html`
-
-### Opción 2: Netlify/Vercel (estático)
-
-- Publica el directorio `GymUPM/` como carpeta de salida.
-- No requiere build.
-
-## Requisitos
-
-- Navegador web moderno.
-- (Opcional para local) Python 3 para servir archivos estáticos.
-- (Opcional para editar como app UWP) Visual Studio con soporte UWP/JavaScript.
-
-## Mejoras sugeridas
+## Futuras mejoras
 
 - Añadir `index.html` en raíz para redirigir automáticamente a `GymUPM/home.html`.
 - Validación de formularios y almacenamiento real (API/backend).
