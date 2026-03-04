@@ -32,8 +32,8 @@ Aplicación web prototipo para un gimnasio (pantalla de acceso y formulario de a
 
 Abre en el navegador:
 
-- `[Home](https://amayucas.github.io/gymupm-web-portal/GymUPM/home.html)`
-- `[Registro](https://amayucas.github.io/gymupm-web-portal/GymUPM/registro_socio.html)`
+- [Home](https://amayucas.github.io/gymupm-web-portal/GymUPM/home.html)
+- [Registro](https://amayucas.github.io/gymupm-web-portal/GymUPM/registro_socio.html)
 
 ## Futuras mejoras
 
